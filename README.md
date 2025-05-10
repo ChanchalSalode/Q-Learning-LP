@@ -36,7 +36,7 @@ x, y ≥ 0
 ## 📊 Visualization
 
 <p align="center">
-  <img src="images/feasible_region_plot.png" alt="Feasible Region Plot" width="400">
+  <img src="Figure_1.png" alt="Feasible Region Plot" width="400">
 </p>
 
 ---
@@ -47,8 +47,7 @@ Q-Learning-LP/
 ├── q_learning_lp.py           # Main Python script
 ├── README.md                  # This file
 ├── requirements.txt           # List of dependencies
-└── images/
-└── feasible_region_plot.png  # Optional: plot image (save after running the script)
+└── Figure_1.png              
 
 ---
 
