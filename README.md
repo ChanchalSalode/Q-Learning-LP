@@ -1,4 +1,4 @@
-# 🧠 Q-Learning for Solving Linear Programming Problems
+# Q-Learning for Solving Linear Programming Problems
 
 This project demonstrates how **Q-learning**, a reinforcement learning (RL) technique, can be used to approximately solve a **Linear Programming (LP)** problem. The goal is to explore how learning-based algorithms can tackle classical optimization problems and compare their performance with exact methods like the **Simplex algorithm**.
 
